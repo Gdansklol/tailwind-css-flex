@@ -28,9 +28,9 @@ function App() {
      </div>
 
      <div className='flex flex-wrap bg-pink-300 rounded-t-sm p-3 md:flex-wrap-reverse'>
-      <div>01</div>
-      <div>02</div>
-      <div>03</div>
+      <div>Button-1</div>
+      <div>-2</div>
+      <div>-3</div>
       </div>
   
       <div class="flex gap-5 ...">
